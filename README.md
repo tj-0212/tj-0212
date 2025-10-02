@@ -1,127 +1,160 @@
-# 👋 Hi, I'm Tejas K S  
+# 👋 Hi, I'm [Your Name]
 
-🎓 **Recent Graduate in Information Science & Engineering**  
-💼 **Software Engineer @ Capgemini | Backend & Full-Stack Developer**  
-🤖 Passionate about **AI, ML, Cloud, and Scalable Software Systems**  
-🌱 Always learning, building, and innovating 🚀  
+<div align="center">
+  
+### 💻 Software Engineer | AI & Backend Specialist | Mainframe Modernization
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/>
-</p>
+</div>
 
 ---
 
-## 💼 Experience  
+## 🚀 About Me
 
-- **Software Engineer @ Capgemini (2025 – Present)**  
-  🚀 Mainframe modernization using AI, Python & Web tools.  
-  🔧 Scalable automation apps for productivity & system performance.  
-  ☁️ Cloud-based (AWS) solutions for modernization.  
-
-- **Backend Developer Intern @ Indiassetz (2023 – 2024)**  
-  🔗 Designed REST APIs with Django & PostgreSQL.  
-  ⚡ Optimized queries & improved system responsiveness.  
-  📊 Integrated Mailmodo & Google Sheets API for automation.  
-
-- **Project Intern @ GAT (2023)**  
-  📈 Data analysis using Pandas, NumPy, Seaborn.  
-  🧪 Synthetic data generation with Faker & CT-GAN.  
-
-- **Backend Developer Intern @ GAT (2022 – 2023)**  
-  🔐 JWT-based authentication with Node.js & MongoDB.  
-  🔗 RESTful APIs + React.js integration.  
+🎓 **Bachelor's in Information Science and Engineering** from Global Academy of Technology, Bengaluru  
+💼 Currently working at **Capgemini** on AI-driven mainframe modernization  
+🌱 Passionate about building scalable solutions and staying at the forefront of emerging technologies  
+🔍 Focused on solving complex technical problems through innovation and modern engineering practices
 
 ---
 
-## 🚀 Projects  
+## 🛠️ Tech Stack
 
-- 🩺 **Multi-Health Analysis (Deep Learning)**  
-  ➡️ Brain tumor detection, ML models with >80% accuracy.  
-  🔗 [GitHub Repo](#)  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📝 **Meeting Transcriber (NLP + Django)**  
-  ➡️ Speech-to-text, translation & sentiment analysis with BERT.  
-  🔗 [GitHub Repo](#)  
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 📚 **StudyBud (Django)**  
-  ➡️ Real-time discussion rooms, REST APIs, secure auth.  
-  🔗 [GitHub Repo](#)  
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## 🏆 Achievements  
-
-- 🥇 **IBM-Z Datathon Winner** — Bengaluru  
-- 🥇 **Hack-A-League National Hackathon Winner** — GAT  
-- 🥇 **ByteFest Winner (Competitive Programming)** — GAT  
-- 🥈 **Hackerrupt22 State-Level Hackathon Runner-Up** — VVCE  
-
----
-
-## 📜 Certifications  
-
-- ☁️ AWS Cloud Practitioner  
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- 🐳 Docker  
-- 🛠️ Software Design & Architecture — University of Alberta  
-- 🗃️ SQL Certification — HackerRank  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-ks&show_icons=true&theme=radical" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-ks&layout=compact&theme=radical" height="180"/>
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect  
+## 💼 Professional Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejas-ks" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/tejas-ks" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🔹 Software Engineer @ Capgemini
+**Jan 2025 - Present | Bangalore, India**
+- 🤖 Contributing to **mainframe modernization using AI**
+- 🛠️ Developing Python and web-based tools for legacy system transformation
+- ☁️ Implementing cloud-based solutions (AWS) for enhanced scalability
+- 🔄 Building automation workflows to improve code analysis and migration efficiency
+
+### 🔹 Backend Developer/Intern @ Indiassetz
+**Nov 2023 - Feb 2024 | Bengaluru**
+- 🏗️ Architected scalable RESTful APIs using **Django & PostgreSQL**
+- ⚡ Optimized complex database queries for improved performance
+- 📧 Integrated automated email workflows with Mailmodo
+- 🔄 Developed real-time synchronization with Google Sheets API
+
+### 🔹 Project Intern @ GAT
+**Oct 2023 - Nov 2023 | Bengaluru**
+- 📊 Data analysis using **Pandas, NumPy, and Seaborn**
+- 🎲 Built synthetic datasets using **Faker and CT-GAN**
+- 🌐 Deployed data simulation tools via **Flask**
+
+### 🔹 Backend Developer/Intern @ GAT
+**Dec 2022 - May 2023 | Bengaluru**
+- 🔐 Developed secure authentication APIs with **Node.js & MongoDB**
+- 🗄️ Designed scalable MongoDB data models
+- 🔑 Implemented JWT-based authentication and middleware
+- 👥 Collaborated in Agile team for full-stack development
 
 ---
 
-<p align="center"><em>“Code is a tool. Business is the engine. Vision is the fuel.”</em></p>
+## 🎯 Featured Projects
+
+### 🧠 [Multi-Health Analysis Using Deep Learning](github-link)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-0078D4?style=flat-square&logo=python&logoColor=white)
+- Built ML models achieving **80%+ accuracy** for health condition prediction
+- Developed advanced brain tumor detection model with high reliability
+- Utilized transfer learning and deep learning techniques
+
+### 🎙️ [Meeting Transcriber](github-link)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+- Full-stack application with **speech-to-text transcription**
+- Integrated language translation and sentiment analysis
+- Fine-tuned multiple **BERT models** for enhanced accuracy
+- Implemented robust authentication and performance optimization
+
+### 💬 [StudyBud](github-link)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+- Web platform for creating and joining discussion rooms
+- Built RESTful APIs for smooth frontend integration
+- Implemented secure user authentication and authorization
+- Real-time collaboration with optimized database schemas
+
+---
+
+## 🏆 Achievements & Awards
+
+🥇 **First Place** - IBM-Z Datathon, Bengaluru (IBM-Z)  
+🥇 **First Place** - Hack-A-League (National Level Hackathon)  
+🥇 **First Place** - ByteFest Competitive Programming (GAT)  
+🥈 **Second Place** - State Level Hackathon (Hackerrupt22, VVCE)
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+**Software Design and Architecture** - University of Alberta  
+**AWS APAC - Solutions Architecture Job Simulation**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Passionate about solving complex technical problems and continuously improving systems through innovation"
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
+
+</div>
