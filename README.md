@@ -153,6 +153,4 @@
 
 ### 💡 "Passionate about solving complex technical problems and continuously improving systems through innovation"
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
-
 </div>
