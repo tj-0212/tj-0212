@@ -1,7 +1,11 @@
+<div align="center">
+
 # 👋 Hi, I'm [Your Name]
 
-<div align="center">
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+AI+Enthusiast;Backend+Specialist+%7C+Mainframe+Modernization;Full+Stack+Developer+%7C+Cloud+Architecture" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ### 💻 Software Engineer | AI & Backend Specialist | Mainframe Modernization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
@@ -42,9 +46,16 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=ai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=graphql&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4088?style=for-the-badge&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-0066CC?style=for-the-badge&logo=natural-language&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
