@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Tejas K S
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Software+Engineer+%2B+AI+Developer;Full+Stack+Developer+%2B+Cloud" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-### 💻 Software Engineer | AI & Backend Specialist | Mainframe Modernization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
