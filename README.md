@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-k-s-515600230)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejashemanth24@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tj-0212)
-)
+
 
 </div>
 
@@ -97,14 +97,14 @@
 
 ## 🎯 Featured Projects
 
-### 🧠 [Multi-Health Analysis Using Deep Learning](github-link)
+### 🧠 [Multi-Health Analysis Using Deep Learning]
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-0078D4?style=flat-square&logo=python&logoColor=white)
 - Built ML models achieving **80%+ accuracy** for health condition prediction
 - Developed advanced brain tumor detection model with high reliability
 - Utilized transfer learning and deep learning techniques
 
-### 🎙️ [Meeting Transcriber](github-link)
+### 🎙️ [Meeting Transcriber]
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 - Full-stack application with **speech-to-text transcription**
@@ -112,7 +112,7 @@
 - Fine-tuned multiple **BERT models** for enhanced accuracy
 - Implemented robust authentication and performance optimization
 
-### 💬 [StudyBud](github-link)
+### 💬 [StudyBud]
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 - Web platform for creating and joining discussion rooms
