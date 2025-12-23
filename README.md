@@ -135,13 +135,17 @@
 ## 📜 Certifications
 
 <div align="center">
-![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 
+**AWS Cloud Practitioner** - Udemy & Coursera  
 **Software Design and Architecture** - University of Alberta  
 **AWS APAC - Solutions Architecture Job Simulation**
 
 </div>
+
+---
 
 ---
 
