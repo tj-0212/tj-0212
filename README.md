@@ -69,30 +69,30 @@
 
 ### 🔹 Software Engineer @ Capgemini
 **Jan 2025 - Present | Bangalore, India**
-- 🤖 Contributing to **mainframe modernization using AI**
-- 🛠️ Developing Python and web-based tools for legacy system transformation
-- ☁️ Implementing cloud-based solutions (AWS) for enhanced scalability
-- 🔄 Building automation workflows to improve code analysis and migration efficiency
+-	Driving mainframe modernization efforts by developing AI-powered solutions and automation tools using Python, Flask, FastAPI, Next.js MongoDB and PostgreSQL, and cloud technologies to        modernize legacy systems.
+-	Architected and deployed end-to-end Internal Tool using Flask and MongoDB; designed modular, optimised core-logic and Accelerated database performance through data partitioning and           indexing strategies for complex code analysis that extracts and presents actionable insights and enhancing code comprehension by 67%.
+-	Leveraging Amazon Web Services (AWS), including Amazon Bedrock models & RAG, to build and deploy scalable AI solutions; integrated Generative AI models for code optimization and              automation, reducing manual effort by 37%.
+-	Gaining hands-on experience in Cloud Solutions Architecture, designing high-availability, fault-tolerant systems, and applying best practices for cloud-based deployments and serverless       architectures.
+-	Collaborating cross-functionally with development teams on enterprise web applications, contributing to full-stack development and resolving integration challenges between backend systems.
 
 ### 🔹 Backend Developer/Intern @ Indiassetz
 **Nov 2023 - Feb 2024 | Bengaluru**
-- 🏗️ Architected scalable RESTful APIs using **Django & PostgreSQL**
-- ⚡ Optimized complex database queries for improved performance
-- 📧 Integrated automated email workflows with Mailmodo
-- 🔄 Developed real-time synchronization with Google Sheets API
+-	Designed and implemented robust APIs, utilizing Django and PostgreSQL Streamlining complex-schemas and   significantly improving cross-stack integration accelerating feature deployment and   system maintainability.
+-	Optimized database queries to ensure efficient data retrieval period and management reducing latency,    minimizing overhead and improving the application performance by 40% and              Responsiveness by 45%.
+-	Orchestrated automated email notifications using Mailmodo and leveraged the Google Sheets API, streamlining       cross-platform communication and eliminating manual data entry. 
 
 ### 🔹 Project Intern @ GAT
 **Oct 2023 - Nov 2023 | Bengaluru**
-- 📊 Data analysis using **Pandas, NumPy, and Seaborn**
-- 🎲 Built synthetic datasets using **Faker and CT-GAN**
-- 🌐 Deployed data simulation tools via **Flask**
+- Data analysis using **Pandas, NumPy, and Seaborn**
+- Built synthetic datasets using **Faker and CT-GAN**
+- Deployed data simulation tools via **Flask**
 
 ### 🔹 Backend Developer/Intern @ GAT
 **Dec 2022 - May 2023 | Bengaluru**
-- 🔐 Developed secure authentication APIs with **Node.js & MongoDB**
-- 🗄️ Designed scalable MongoDB data models
-- 🔑 Implemented JWT-based authentication and middleware
-- 👥 Collaborated in Agile team for full-stack development
+-	Developed and implemented login and sign-up APIs using Node.js and JWT, enhancing user authentication and registration.
+-	Designed database schemas and developed data models for user management & authentication systems using MongoDB.
+-	Collaborated effectively within a professional team environment, honing skills in code development, problem-solving, and project management.
+
 
 ---
 
@@ -101,17 +101,18 @@
 ### 🧠 [Multi-Health Analysis Using Deep Learning]
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-0078D4?style=flat-square&logo=python&logoColor=white)
-- Built ML models achieving **80%+ accuracy** for health condition prediction
-- Developed advanced brain tumor detection model with high reliability
-- Utilized transfer learning and deep learning techniques
+-	Developed a deep learning model utilizing Convolutional Neural Networks (CNNs) to predict multiple types of brain tumors from medical imaging data, consistently achieving an accuracy rate    above 80%.	
+-	Built and fine-tuned multiple machine learning models for predicting health conditions using diverse datasets, such as patient records and diagnostic test reports, achieving an average       accuracy of over 80% across different cases (e.g., disease progression, patient outcomes).
+-	Implemented transfer learning with CNNs for image classification, using pre-trained models (such as ResNet or VGG) combined with data augmentation techniques to classify medical images       across multiple cases, improving model performance and robustness.
+
+
 
 ### 🎙️ [Meeting Transcriber]
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-- Full-stack application with **speech-to-text transcription**
-- Integrated language translation and sentiment analysis
-- Fine-tuned multiple **BERT models** for enhanced accuracy
-- Implemented robust authentication and performance optimization
+-	Developed using Django, HTML, CSS, and integrated NLP libraries like Hugging Face’s Transformers, features          include speech-to-text transcription, language translation, sentiment      analysis, and more.
+-	ensured security with authentication and authorization mechanisms and optimized performance using model caching and multi-threading. Additionally, utilized multiple BERT models and fine-     tuned them for enhanced accuracy and efficiency.
+
 
 ### 💬 [StudyBud]
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -137,8 +138,6 @@
 <div align="center">
 
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-
 **AWS Cloud Practitioner** - Udemy & Coursera  
 **Software Design and Architecture** - University of Alberta  
 **AWS APAC - Solutions Architecture Job Simulation**
