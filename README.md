@@ -69,7 +69,7 @@
 
 ### 🔹 Software Engineer @ Capgemini
 **Jan 2025 - Present | Bangalore, India**
--	Driving mainframe modernization efforts by developing AI-powered solutions and automation tools using Python, Flask, FastAPI, Next.js MongoDB and PostgreSQL, and cloud technologies to modernize legacy systems.
+-	Driving mainframe modernization efforts by developing AI-powered solutions and automation tools using Python, Flask, FastAPI, React.js MongoDB and PostgreSQL, and cloud technologies to modernize legacy systems.
 -	Architected and Deployed end-to-end Internal Static Analysis Tool using Flask and MongoDB; designed modular, optimized core-logic and Accelerated database performance through compound indexing, aggregation pipelines, and schema optimization for complex code analysis that extracts and presents actionable insights and reduced time to understand an unfamiliar legacy module from ~3-5 hours of manual tracing to under 10 minutes.
 -	Built AI solutions on AWS Bedrock using Anthropic models; applied prompt engineering, RAG pipelines, and document retrieval techniques to develop intelligent, context-aware workflows.
 -	Built multi-agent AI systems and prototypes at hackathons using frameworks like LangChain, CREW, Google-ADK, tool-calling and MCP designing autonomous orchestration pipelines with Retrieval-Augmented Generation (RAG); exploring integration pathways for agentic AI within enterprise contexts.
