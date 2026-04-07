@@ -69,10 +69,10 @@
 
 ### 🔹 Software Engineer @ Capgemini
 **Jan 2025 - Present | Bangalore, India**
--	Driving mainframe modernization efforts by developing AI-powered solutions and automation tools using Python, Flask, FastAPI, Next.js MongoDB and PostgreSQL, and cloud technologies to        modernize legacy systems.
--	Architected and deployed end-to-end Internal Tool using Flask and MongoDB; designed modular, optimised core-logic and Accelerated database performance through data partitioning and           indexing strategies for complex code analysis that extracts and presents actionable insights and enhancing code comprehension by 67%.
--	Leveraging Amazon Web Services (AWS), including Amazon Bedrock models & RAG, to build and deploy scalable AI solutions; integrated Generative AI models for code optimization and              automation, reducing manual effort by 37%.
--	Gaining hands-on experience in Cloud Solutions Architecture, designing high-availability, fault-tolerant systems, and applying best practices for cloud-based deployments and serverless       architectures.
+-	Driving mainframe modernization efforts by developing AI-powered solutions and automation tools using Python, Flask, FastAPI, Next.js MongoDB and PostgreSQL, and cloud technologies to modernize legacy systems.
+-	Architected and Deployed end-to-end Internal Static Analysis Tool using Flask and MongoDB; designed modular, optimized core-logic and Accelerated database performance through compound indexing, aggregation pipelines, and schema optimization for complex code analysis that extracts and presents actionable insights and reduced time to understand an unfamiliar legacy module from ~3-5 hours of manual tracing to under 10 minutes.
+-	Built AI solutions on AWS Bedrock using Anthropic models; applied prompt engineering, RAG pipelines, and document retrieval techniques to develop intelligent, context-aware workflows.
+-	Built multi-agent AI systems and prototypes at hackathons using frameworks like LangChain, CREW, Google-ADK, tool-calling and MCP designing autonomous orchestration pipelines with Retrieval-Augmented Generation (RAG); exploring integration pathways for agentic AI within enterprise contexts.
 -	Collaborating cross-functionally with development teams on enterprise web applications, contributing to full-stack development and resolving integration challenges between backend systems.
 
 ### 🔹 Backend Developer/Intern @ Indiassetz
@@ -138,7 +138,7 @@
 <div align="center">
 
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-**AWS Cloud Practitioner** - Udemy & Coursera  
+[![AWS Certified Cloud Practitioner](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)  
 **Software Design and Architecture** - University of Alberta  
 **AWS APAC - Solutions Architecture Job Simulation**
 
